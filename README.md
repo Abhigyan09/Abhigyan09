@@ -4,7 +4,6 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning DSA And MERN 
 - 💞️ I’m looking to collaborate on New Projects
-- 📫 How to reach me through instagram : id - abhiigyan_09
 - 🚀 I’m a passionate developer who loves building full-stack apps  
 - 🔥 Skilled in **React Native**, **Firebase**, **Spring Boot**, **Tailwind CSS**, and **Framer Motion**  
 - 🧑‍💻 Currently working on dynamic UI-based apps and backend integration  
