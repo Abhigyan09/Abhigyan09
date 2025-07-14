@@ -29,6 +29,11 @@
 
 ## 🧠 About Me
 
+- 👋 Hi, I’m @Abhigyan
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning DSA And MERN 
+- 💞️ I’m looking to collaborate on New Projects
+- 📫 How to reach me through instagram : id - abhiigyan_09
 - 🚀 I’m a passionate developer who loves building full-stack apps  
 - 🔥 Skilled in **React Native**, **Firebase**, **Spring Boot**, **Tailwind CSS**, and **Framer Motion**  
 - 🧑‍💻 Currently working on dynamic UI-based apps and backend integration  
@@ -83,6 +88,36 @@
 ---
 
 ⭐️ From [Abhigyan09](https://github.com/Abhigyan09)
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dlumnd2nd/image/upload/v1752485131/o4dp6jdbgwuk0nowpja0.png" width="100%" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhigyan+Yadav;React+Native+%7C+Firebase+%7C+Spring+Boot+Dev;Welcome+to+my+GitHub!)](https://github.com/Abhigyan09)
+
+<p align="center">
+  <a href="mailto:aptabhigyan@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhigyan-yadav/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Abhigyan09/Portfolio-Abhigyan-"><img src="https://img.shields.io/badge/Portfolio-%23121011?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+![visitors](https://komarev.com/ghpvc/?username=Abhigyan09&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 🧠 Trophy Wall
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhigyan09&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📱 Scan to View My Portfolio
+
+<p align="center">
+  <img src="./abhigyan_portfolio_qr.png" alt="QR Code to Portfolio" width="200" />
+</p>
+
+
 
 
 <!---
