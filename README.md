@@ -1,8 +1,15 @@
+## 🧠 About Me
+
 - 👋 Hi, I’m @Abhigyan
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning DSA And MERN 
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me through instagram : id - abhiigyan_09
+- 🚀 I’m a passionate developer who loves building full-stack apps  
+- 🔥 Skilled in **React Native**, **Firebase**, **Spring Boot**, **Tailwind CSS**, and **Framer Motion**  
+- 🧑‍💻 Currently working on dynamic UI-based apps and backend integration  
+- 🌱 Learning advanced **system design** and **DevOps practices**  
+- 📫 Reach me at **[aptabhigyan@gmail.com](mailto:aptabhigyan@gmail.com)**  
 
 - <p align="center">
   <img src="https://res.cloudinary.com/dlumnd2nd/image/upload/v1752485131/o4dp6jdbgwuk0nowpja0.png" width="100%" />
