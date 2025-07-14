@@ -89,10 +89,6 @@
 
 ⭐️ From [Abhigyan09](https://github.com/Abhigyan09)
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dlumnd2nd/image/upload/v1752485131/o4dp6jdbgwuk0nowpja0.png" width="100%" />
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhigyan+Yadav;React+Native+%7C+Firebase+%7C+Spring+Boot+Dev;Welcome+to+my+GitHub!)](https://github.com/Abhigyan09)
 
 <p align="center">
